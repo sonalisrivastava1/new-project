@@ -1,2 +1,5 @@
 print('hello')
 print('ai')
+print('ml')
+print('so')
+print('p')
